@@ -96,14 +96,21 @@ Nous arrivons maintenant à la dernière étape et il ne reste plus qu'à indiqu
 |:--:|
 | <b>Figure 10 : Ajout d'un disque optique</b>|
 
-## Installation et configuration de pfSense
-<img src="../pictures/pfSense_virtualbox_choisissez_un_fichier_de_disque_optique_virtuel.png" width="40%" height="40%">
+3. Choix du fichier ISO
+
+| ![pfSense_virtualbox_choisissez_un_fichier_de_disque_optique_virtuel.png](../pictures/pfSense_virtualbox_choisissez_un_fichier_de_disque_optique_virtuel.png) |
+|:--:|
+| <b>Figure 10 : Ajout d'un disque optique</b>|
+
+## Ajout des deux interfaces réseau
 
 
 <img src="../pictures/pfSense_virtualbox_adapter_1_bridge_mode.png" width="40%" height="40%">
 
 <img src="../pictures/pfSense_virtualbox_adapter_2_internal.png" width="40%" height="40%">
 
+
+## Ajout des deux interfaces réseau
 
 ## Désactivation du DHCP
 
