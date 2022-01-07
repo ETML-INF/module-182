@@ -112,6 +112,8 @@ Nous arrivons maintenant à la dernière étape et il ne reste plus qu'à indiqu
 
 ## Ajout des deux interfaces réseau
 
+## Démarrage de la VM pfSense et installation
+
 ## Désactivation du DHCP
 
 
