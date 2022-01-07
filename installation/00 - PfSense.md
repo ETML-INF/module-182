@@ -72,7 +72,7 @@ Commençons donc par créer une nouvelle VM. Les écrans suivants décrivent pas
 
 6. Emplacement du fichier et taille
 
-Nous arrivons maintenant à la dernière étape et il ne reste plus qu'à indiquer où stocker le dique dur virtue
+Nous arrivons maintenant à la dernière étape et il ne reste plus qu'à indiquer où stocker le dique dur virtuel.
 
 | ![pfSense_virtualbox_stockage_emplacement_taille.png](../pictures/pfSense_virtualbox_stockage_emplacement_taille.png) |
 |:--:|
@@ -83,6 +83,18 @@ Nous arrivons maintenant à la dernière étape et il ne reste plus qu'à indiqu
 7. Ne démarrez pas tout de suite la VM.
 
 ## Ajout d'un disque optique
+
+1. Ouvrez la configuration de votre VM *pfSense*
+
+| ![pfSense_virtualbox_menu_configuration.png](../pictures/pfSense_virtualbox_menu_configuration.png) |
+|:--:|
+| <b>Figure 9 : Configuration de la VM pfSense</b>|
+
+2. Stockage 
+
+| ![pfSense_virtualbox_choisissez_un_fichier_de_disque_optique_virtuel0.png](../pictures/pfSense_virtualbox_choisissez_un_fichier_de_disque_optique_virtuel0.png) |
+|:--:|
+| <b>Figure 10 : Ajout d'un disque optique</b>|
 
 ## Installation et configuration de pfSense
 <img src="../pictures/pfSense_virtualbox_choisissez_un_fichier_de_disque_optique_virtuel.png" width="40%" height="40%">
