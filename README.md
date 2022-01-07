@@ -1,5 +1,9 @@
 # Vue d'ensemble
 
-<img src="pictures/labo_virtualise.PNG" width="80%" height="80%">
+| ![labo_virtualise.PNG](pictures/labo_virtualise.PNG) |
+|:--:|
+| <b>Figure 1 : Vue d'ensemble de notre labo virtualisé</b>|
 
+
+# Procédures
 [Installation de pfSense](<installation/00 - PfSense.md>)
