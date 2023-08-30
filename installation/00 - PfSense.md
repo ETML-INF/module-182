@@ -105,12 +105,13 @@ Nous arrivons maintenant à la dernière étape et il ne reste plus qu'à indiqu
 ## Ajout des deux interfaces réseau
 
 
-<img src="../pictures/pfSense_virtualbox_adapter_1_bridge_mode.png" width="40%" height="40%">
+To do : ajouter une image.
+La première interface doit être configurée en NAT.
 
 <img src="../pictures/pfSense_virtualbox_adapter_2_internal.png" width="40%" height="40%">
 
 
-## Ajout des deux interfaces réseau
+
 
 ## Démarrage de la VM pfSense et installation
 
