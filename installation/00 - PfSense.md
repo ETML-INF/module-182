@@ -121,44 +121,37 @@ La première interface doit être configurée en NAT.
 |:--:|
 | <b>Figure 11 : pfSense menu</b>|
 
-| ![pfsense_menu_set_interfaces_ip.png](../pictures/pfsense_menu_set_interfaces_ip.png) |
-|:--:|
-| <b>Figure 12 : pfSense menu</b>|
-
-| ![pfsense_menu_set_interfaces_ip_lan.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan.PNG) |
-|:--:|
-| <b>Figure 13 : pfSense menu</b>|
 
 | ![pfsense_menu_set_interfaces_ip_lan_2.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_2.PNG) |
 |:--:|
-| <b>Figure 14 : pfSense menu</b>|
+| <b>Figure 12 : pfSense menu</b>|
 
 
 | ![pfsense_menu_set_interfaces_ip_lan_disable_dhcp.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_disable_dhcp.PNG) |
 |:--:|
-| <b>Figure 15 : pfSense menu</b>|
+| <b>Figure 13 : pfSense menu</b>|
 
 
 | ![pfsense_menu_set_interfaces_ip_lan_no_ipv6.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_no_ipv6.PNG) |
 |:--:|
-| <b>Figure 16 : pfSense menu</b>|
+| <b>Figure 14 : pfSense menu</b>|
 
 | ![pfsense_menu_set_interfaces_ip_lan_no_wan.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_no_wan.PNG) |
 |:--:|
-| <b>Figure 17 : pfSense menu</b>|
+| <b>Figure 15 : pfSense menu</b>|
 
 | ![pfsense_menu_set_interfaces_ip_lan_subnet.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_subnet.PNG) |
 |:--:|
-| <b>Figure 18 : pfSense menu</b>|
+| <b>Figure 16 : pfSense menu</b>|
 
 | ![pfsense_menu_set_interfaces_ip_lan_webconfig.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_webconfig.PNG) |
 |:--:|
-| <b>Figure 19 : pfSense menu</b>|
+| <b>Figure 17 : pfSense menu</b>|
 
 
 | ![pfsense_menu_set_interfaces_ip_lan_done.PNG](../pictures/pfsense_menu_set_interfaces_ip_lan_done.PNG) |
 |:--:|
-| <b>Figure 20 : pfSense menu</b>|
+| <b>Figure 18 : pfSense menu</b>|
 
 
 
